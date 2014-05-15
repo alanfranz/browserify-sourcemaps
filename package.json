@@ -1,0 +1,17 @@
+{
+  "name": "browserify-sourcemaps",
+  "version": "1.0.0",
+  "description": "asd",
+  "dependencies": {
+    "browserify": "~4.1.3"
+  },
+  "keywords": [
+  ],
+  "devDependencies": {
+  },
+  "scripts": {
+  },
+  "author": "Alan Franzoni",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
